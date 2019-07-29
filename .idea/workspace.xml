@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f03f0f7-ae66-4c41-922f-30eb27abd593" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/main/UserInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Question.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Reply.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Reply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/TimeStamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/Upvote.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/Upvote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/units/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/units/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/forum/util/Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/forum/util/Utility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discusion/forum/activiy/UserActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/QuestionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/QuestionService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/ReplyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/ReplyService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/UpvoteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/UpvoteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/discussion/forum/units/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/discussion/forum/units/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/main/UserInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/forum/units/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Reply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Reply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/units/TimeStamp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Upvote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Upvote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/units/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/forum/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/util/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discusion/forum/activiy/UserActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/QuestionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/ReplyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/discussion/forum/units/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/discussion/forum/units/service/UserService.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,13 +12,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteServiceImpl.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/forum/units/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-585">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="440">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+              <folding>
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +46,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/forum/units/Question.java" />
+        <option value="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -100,6 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -129,12 +134,12 @@
       <updated>1564397239022</updated>
       <workItem from="1564397240246" duration="184000" />
       <workItem from="1564397482658" duration="26000" />
-      <workItem from="1564398024085" duration="932000" />
+      <workItem from="1564398024085" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1142000" />
+    <option name="totallyTimeSpent" value="1808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -157,7 +162,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -222,13 +227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/forum/units/Reply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -236,17 +234,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-585">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

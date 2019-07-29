@@ -18,6 +18,7 @@ public class Question extends AbstractEntity {
 
 		// please write your code below and follow this instruction:
 		// 1. Call the parent class' setId method and pass in lastEntry as the method variable;
+
 	}
 
 	/**
