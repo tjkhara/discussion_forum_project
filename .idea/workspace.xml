@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f03f0f7-ae66-4c41-922f-30eb27abd593" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/forum/units/Reply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/forum/units/Reply.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/forum/units/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
+            <state relative-caret-position="713">
               <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/forum/units/Reply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="757">
+              <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -51,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/forum/units/AbstractEntity.java" />
         <option value="$PROJECT_DIR$/src/com/forum/units/Question.java" />
+        <option value="$PROJECT_DIR$/src/com/forum/units/Reply.java" />
       </list>
     </option>
   </component>
@@ -133,18 +143,18 @@
       <updated>1564397239022</updated>
       <workItem from="1564397240246" duration="184000" />
       <workItem from="1564397482658" duration="26000" />
-      <workItem from="1564398024085" duration="1782000" />
+      <workItem from="1564398024085" duration="1935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1992000" />
+    <option name="totallyTimeSpent" value="2145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21794872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,13 +236,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Reply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/discussion/forum/units/service/UpvoteServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-585">
@@ -255,8 +258,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/forum/units/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="713">
           <caret line="107" column="27" selection-start-line="107" selection-start-column="27" selection-end-line="107" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/forum/units/Reply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="89" column="33" selection-start-line="89" selection-start-column="33" selection-end-line="89" selection-end-column="33" />
         </state>
       </provider>
     </entry>
